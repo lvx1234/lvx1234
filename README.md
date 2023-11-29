@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://github.com/lvx1234/lvx1234/blob/main/image/hearder02.jpg)](https://github.com/lvx1234/lvx1234/edit/main/README.md)
 
+![image](https://github.com/lvx1234/lvx1234/blob/main/image/ezgif-1-d46b7f1794.gif?raw=true)
+
 ![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only) ![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
