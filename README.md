@@ -2,6 +2,12 @@
 
 ☂️☔⚡❄️☃️⛄☄️ 奔跑吧！小番茄  ☀️ ⭐ ☁️⛅⛈️
 
+@media (prefers-color-scheme: light) :root[data-color-mode=auto] .entry-content [href$="#gh-dark-mode-only"],
+    :root[data-color-mode=auto] .comment-body [href$="#gh-dark-mode-only"],
+    :root[data-color-mode=auto] .readme [href$="#gh-dark-mode-only"] {
+    display: none;
+}
+
 <!--
 **lvx1234/lvx1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +27,8 @@ Here are some ideas to get you started:
 
 <!-- header展示-->
 [![MasterHead](https://github.com/lvx1234/lvx1234/blob/main/image/ezgif-1-d46b7f1794.gif?raw=true)](https://github.com/lvx1234/lvx1234/edit/main/README.md)
+
+<!-- body展示-->
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only) ![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
