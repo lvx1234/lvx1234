@@ -2,11 +2,6 @@
 
 ☂️☔⚡❄️☃️⛄☄️ 奔跑吧！小番茄  ☀️ ⭐ ☁️⛅⛈️
 
-@media (prefers-color-scheme: light) :root[data-color-mode=auto] .entry-content [href$="#gh-dark-mode-only"],
-    :root[data-color-mode=auto] .comment-body [href$="#gh-dark-mode-only"],
-    :root[data-color-mode=auto] .readme [href$="#gh-dark-mode-only"] {
-    display: none;
-}
 
 <!--
 **lvx1234/lvx1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
