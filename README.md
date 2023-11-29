@@ -1,6 +1,6 @@
 ### Hi 我爱西红柿 👋
 
-奔跑吧！小番茄  ☀️ ⭐ ☁️⛅⛈️
+☂️☔⚡❄️☃️⛄☄️ 奔跑吧！小番茄  ☀️ ⭐ ☁️⛅⛈️
 
 <!--
 **lvx1234/lvx1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
