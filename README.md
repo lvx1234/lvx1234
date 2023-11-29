@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - https://www.youtube.com/watch?v=Q1daXaPfS4k
 - https://github.com/lvx1234/lvx1234/blob/main/image/hearder02.jpg
 -->
-[![MasterHead](https://github.com/lvx1234/lvx1234/blob/main/image/ezgif-1-d46b7f1794.gif?raw=true)](https://github.com/lvx1234/lvx1234/edit/main/README.md)
-
-![image](https://github.com/lvx1234/lvx1234/blob/main/image/ezgif-1-d46b7f1794.gif?raw=true)
+<div align="center">
+  [![MasterHead](https://github.com/lvx1234/lvx1234/blob/main/image/ezgif-1-d46b7f1794.gif?raw=true)](https://github.com/lvx1234/lvx1234/edit/main/README.md)
+</div>
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only) ![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
